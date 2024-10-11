@@ -1,0 +1,5 @@
+# Ignore any solidcurves generated from files internally
+*.sldcrv
+
+# GIF's are all generated
+*.gif
