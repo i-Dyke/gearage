@@ -12,9 +12,9 @@ Best of luck generating your own True-Form gears!
 
 ## Motivation
 
-Looking out over the gear generators widely available, it appears that very few pay attention to the finder details of the gear forms they create; a good litmus test is whether or not the gear profiles have a root radius included, and whether or not that root radius is a true inconstant-radius trochoid curve. 
+Looking out over the gear generators widely available, it appears that very few pay attention to the finer details of the gear forms they create; a good litmus test is whether or not the gear profiles have a root radius included, and whether or not that root radius is a true inconstant-radius trochoid curve. 
 
-Of those that may appear to include such finer details, they often lack good documentation/clarification that they are actually doing so. This necessarily presents some concerns of accuracy, with no easy way to "check the work" of any proprietary software offerings.
+Of those that may appear to include such finer details, they often lack good documentation/clarification that they are & how they are actually doing so. This necessarily presents some concerns of accuracy, with no easy way to "check the work" of any proprietary software offerings.
 
 ## Status
 
